@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    background-color: black;
+    color: white;
+    width: 80%;
+    border-radius: 10px;
+    margin-left: 12%;
+
+
+
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 6%;
+    padding-top: 2%;
+    pad
+}
+
+.text-tittle {
+    text-align: justify;
+    padding-right: 5%;
+
+
+}
+
+.tittle {
+    font-weight: bold;
+    font-size: 200%;
+
+
+}
+
+.last {
+    padding: 2%;
+    background-color: rgb(204, 0, 0);
+    color: white;
+    padding-left: 4%;
+}
+
+/*--match form--*/
+
+
+
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 90%;
+    padding: 15%;
+    margin-top: 5%;
+    padding-top: 20%;
+
+    background-color: black;
+
+}
+
+.login-form input {
+    margin-top: 1em;
+    font-size: 1em;
+    font-weight: bold;
+
+    padding: 7px 20px;
+    border-radius: 5px;
+
+}
+
+.button {
+    background-color: rgb(204, 0, 0);
+    color: white;
+
+
+}
+
+/*another-part*/
+
+.players-tittle {
+    margin: 3%;
+    border-radius: 4px;
+    box-shadow: 0px 0px 40px #00000026;
+
+
+
+}
+
+.player-info {
+    padding-left: 4%;
+}
+
+
+.last {
+    padding: 2px;
+
+}
+
+.author img {
+    width: 100%;
+}
+
+
+.design {
+    padding-top: 7px;
+    padding-left: 8px;
+}
+
+.display-name {
+    display: flex;
+    justify-content: space-between;
+}
+
+.players-card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-right: 5%;
+}
+
+.player-icon {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+
+/*--another-part*/
+
+.ending {
+    background-color: black;
+    margin-top: 5%;
+    color: white;
+}
+
+.mission {
+
+    display: flex;
+    justify-content: center;
+}
+
+.finished {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.font-emoji {
+    display: flex;
+    justify-content: space-evenly;
+}
