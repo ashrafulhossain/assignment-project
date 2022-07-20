@@ -55,7 +55,7 @@ main {
     display: flex;
     flex-direction: column;
     width: 100%;
-    margin-left: 90%;
+    margin-left: 80%;
     padding: 15%;
     margin-top: 5%;
     padding-top: 20%;
@@ -68,6 +68,7 @@ main {
     margin-top: 1em;
     font-size: 1em;
     font-weight: bold;
+
 
     padding: 7px 20px;
     border-radius: 5px;
@@ -93,7 +94,7 @@ main {
 }
 
 .player-info {
-    padding-left: 4%;
+    padding-left: 3%;
 }
 
 
